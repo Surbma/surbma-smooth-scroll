@@ -1,10 +1,10 @@
 === Surbma - Smooth Scroll ===
 Contributors: Surbma
 Donate link: http://surbma.com/wordpress-plugins/
-Tags: smooth scroll, scroll, 
+Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0.0
+Tested up to: 4.4
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,14 @@ Visit my webpage: <a href="http://surbma.com/" target="_blank">Surbma.com →</a
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.1 =
+
+- Updated jquery.scrollTo.min.js to 2.1.2 version.
+- Fixed localization.
+- Minor code optimization.
+- Checked WordPress 4.4 compatibility.
+- Checked PHP 7 compatibility.
 
 = 1.0.0 =
 
