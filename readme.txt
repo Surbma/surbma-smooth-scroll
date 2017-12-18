@@ -1,10 +1,10 @@
-=== Surbma - Smooth Scroll ===
+=== Smooth Scroll ===
 Contributors: Surbma
-Donate link: http://surbma.com/wordpress-plugins/
+Donate link: http://surbma.com/donate/
 Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery
-Requires at least: 3.0
-Tested up to: 4.4
-Stable tag: 1.0.1
+Requires at least: 4.0
+Tested up to: 4.9
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
