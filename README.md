@@ -1,4 +1,4 @@
-Surbma - Smooth Scroll
-===============================
+Smooth Scroll
+=============
 
 A very simple and lightweight smooth scroll plugin.

@@ -51,6 +51,12 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.0.2 =
+
+- Updated jquery.localScroll.min.js to 2.0.0 version.
+- Checked WordPress 4.9 compatibility.
+- Name change.
+
 = 1.0.1 =
 
 - Updated jquery.scrollTo.min.js to 2.1.2 version.
