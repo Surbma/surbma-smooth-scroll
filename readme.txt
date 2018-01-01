@@ -1,4 +1,4 @@
-=== Smooth Scroll ===
+=== Surbma - Smooth Scroll ===
 Contributors: Surbma
 Donate link: http://surbma.com/donate/
 Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery

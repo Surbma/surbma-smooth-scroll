@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Smooth Scroll
+Plugin Name: Surbma - Smooth Scroll
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: A very simple and lightweight smooth scroll plugin.
 
