@@ -1,10 +1,10 @@
-=== Surbma - Smooth Scroll ===
+=== Surbma | Smooth Scroll ===
 Contributors: Surbma
-Donate link: http://surbma.com/donate/
+Donate link: https://surbma.com/donate/
 Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery
 Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.0.2
+Tested up to: 5.0
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This plugin adds smooth scroll effect to every anchor link on your site. Even in
 
 There is no option for this plugin, it just works. :) However if you want to add custom options, you can do that. I don't give any desription to customize, because it needs javascript and WordPress programming knowledge. So if you have the knowledge and experience, you can do it on your own. If you don't have it, than it is not recommended to touch anything, because the plugin is working great with all the default settings.
 
-Surbma - Smooth Scroll plugin is using Ariel Flesler's fantastic jQuery.scrollTo & jQuery.localScroll scripts without any customization and with default settings. The plugin is only integrating the scripts, so you can use it on every WordPress website and the effect will still be active, even if you switch your theme.
+Surbma | Smooth Scroll plugin is using Ariel Flesler's fantastic jQuery.scrollTo & jQuery.localScroll scripts without any customization and with default settings. The plugin is only integrating the scripts, so you can use it on every WordPress website and the effect will still be active, even if you switch your theme.
 
 You can find and learn more about Ariel Flesler's scroll scripts on their GitHub pages:
 
@@ -40,7 +40,7 @@ Visit my webpage: <a href="http://surbma.com/" target="_blank">Surbma.com →</a
 == Installation ==
 
 1. Upload `surbma-smooth-scroll` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Smooth Scroll plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Smooth Scroll plugin through the 'Plugins' menu in WordPress
 3. That's it. Now every anchor will get the smooth scroll effect. :)
 
 == Frequently Asked Questions ==
@@ -50,6 +50,11 @@ Visit my webpage: <a href="http://surbma.com/" target="_blank">Surbma.com →</a
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+- Simpler versioning.
+- Checked WordPress 5.0 compatibility.
 
 = 1.0.2 =
 
