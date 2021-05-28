@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery
 Requires at least: 5.0
 Tested up to: 5.7
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,13 @@ Visit my webpage: <a href="http://surbma.com/" target="_blank">Surbma.com →</a
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.2 =
+
+Release date: 2021-05-28
+
+- Code optimization.
+- Scripts order fix.
 
 = 1.1 =
 
