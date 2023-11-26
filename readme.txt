@@ -3,7 +3,7 @@ Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: smooth scroll, scroll, Ariel Flesler, scrollto, localscroll, jquery
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.4
 Stable tag: 1.2
 Requires PHP: 7.0
 License: GPLv2
